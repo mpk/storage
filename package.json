@@ -1,0 +1,25 @@
+{
+	"name": "storage",
+	"version": "1.0.0",
+	"description": "localStorage wrapper",
+	"private": true,
+	"main": "source/index.js",
+	"dependencies": {},
+	"devDependencies": {
+		"browserify": "13.0.0",
+		"jasmine-core": "2.4.1",
+		"karma": "0.13.19",
+		"karma-browserify": "5.0.1",
+		"karma-jasmine": "0.3.6",
+		"watchify": "3.7.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mpk/storage"
+	},
+	"author": "mpk",
+	"license": "MIT",
+	"scripts": {
+		"test": "karma start specs/support/options.js"
+	}
+}
