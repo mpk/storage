@@ -7,7 +7,7 @@ localStorage wrapper.
 
 ## Install
 
-	npm install mpk/storage
+	npm install mpk/storage#c5cf8b0
 
 ## Usage
 
